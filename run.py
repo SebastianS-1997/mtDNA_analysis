@@ -50,7 +50,7 @@ def add_mapped_data(file_path, loci_df):
 # Pozostałe funkcje i definicje stałych
 
 # Definitions of constants
-BASE_DIR = r"C:\Users\sebas\OneDrive\Dokumenty\mtDNA_WES\Kod\mtDNA_analysis_mtDNAServer"
+BASE_DIR = r"path\mtDNA_analysis_mtDNAServer"
 INPUT_DIR = os.path.join(BASE_DIR, "Input")
 RESULTS_DIR = os.path.join(BASE_DIR, "Results")
 DATABASES_DIR = os.path.join(BASE_DIR, "Database")
