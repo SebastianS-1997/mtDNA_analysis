@@ -48,6 +48,10 @@ docker pull tomlodz1/mtdnav1:latest
 ```bash
 docker run -v "Path\Input:/Input" -v "Path\Results:/Results" tomlodz1/mtdnav1:latest
 ```
+or
+```bash
+sudo docker run -v "${PWD}/path:"/Results" -v "${PWD}/path":"/Input" mtdnav1
+```
 
 1. The script will run inside the Docker container, and the results will be generated in the Results directory.
 
