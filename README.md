@@ -24,9 +24,10 @@ The provided Python script is designed to perform the following tasks:
 ```bash
 docker pull tomlodz1/mtdnav1:latest
 
+```bash
 docker run -v "C:\mtDNA_analysis\Input:/Input" -v "C:\mtDNA_analysis\Results:/Results" tomlodz1/mtdnav1:latest
 
-Or
+
 1. Clone the repository to your local machine:
 
 ```bash
