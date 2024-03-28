@@ -46,7 +46,7 @@ docker pull tomlodz1/mtdnav1:latest
 2. Run the Docker container, mounting the Input and Results directories:
    
 ```bash
-docker run -v "C:\mtDNA_analysis\Input:/Input" -v "C:\mtDNA_analysis\Results:/Results" tomlodz1/mtdnav1:latest
+docker run -v "Path\Input:/Input" -v "Path\Results:/Results" tomlodz1/mtdnav1:latest
 ```
 
 1. The script will run inside the Docker container, and the results will be generated in the Results directory.
