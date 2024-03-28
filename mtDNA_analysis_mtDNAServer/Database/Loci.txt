@@ -1,0 +1,78 @@
+Map Locus	Starting	Ending	Description
+MT-3H	384	391	mt3 H-strand control element
+MT-3L	16499	16506	L-strand control element
+MT-4H	371	379	mt4 H-strand control element
+MT-5	16194	16208	control element
+MT-7SDNA	16106	191	7S DNA
+MT-ATP6	8527	9207	ATP synthase F0 subunit 6
+MT-ATP8	8366	8572	ATP synthase F0 subunit 8
+MT-ATT	15925	499	membrane attachment site
+MT-CO1	5904	7445	Cytochrome c oxidase subunit I
+MT-CO2	7586	8269	Cytochrome c oxidase subunit II
+MT-CO3	9207	9990	Cytochrome c oxidase subunit III
+MT-CR	16024	576	entire Control Region (including displacement loop)
+MT-CSB1	213	235	Conserved sequence block 1
+MT-CSB2	299	315	Conserved sequence block 2
+MT-CSB3	346	363	Conserved sequence block 3
+MT-CYB	14747	15887	Cytochrome b
+MT-HPR	317	321	replication primer
+MT-HSP1	545	567	Major H-strand promoter
+MT-HSP2	645	645	Minor H-strand promoter
+MT-Hum	2633	2705	Humanin peptide
+MT-HV1	16024	16383	Hypervariable segment 1 [classic:16024-16365]
+MT-HV2	57	372	Hypervariable segment 2 [classic:73-340 ]
+MT-HV3	438	574	Hypervariable segment 3
+MT-LSP	392	435	L-strand promoter
+MT-MOTSc	1343	1393	MOTS-C peptide
+MT-NC1	3305	3306	non-coding nucleotides
+MT-NC10	15954	15955	non-coding nucleotides
+MT-NC2	4401	4401	non-coding nucleotides
+MT-NC3	5580	5586	non-coding nucleotides
+MT-NC4	5656	5656	non-coding nucleotides
+MT-NC5	5892	5903	non-coding nucleotides
+MT-NC6	7515	7517	non-coding nucleotides
+MT-NC7	8270	8294	non-coding nucleotides
+MT-NC8	8365	8365	non-coding nucleotide
+MT-NC9	14743	14746	non-coding nucleotides
+MT-ND1	3307	4262	NADH Dehydrogenase subunit 1
+MT-ND2	4470	5511	NADH dehydrogenase subunit 2
+MT-ND3	10059	10404	NADH dehydrogenase subunit 3
+MT-ND4	10760	12137	NADH dehydrogenase subunit 4
+MT-ND4L	10470	10766	NADH dehydrogenase subunit 4L
+MT-ND5	12337	14148	NADH dehydrogenase subunit 5
+MT-ND6	14149	14673	NADH dehydrogenase subunit 6
+MT-OHR	110	441	H-strand origins
+MT-OHR57	57	57	H-strand origin
+MT-OLR	5721	5798	L-strand origin
+MT-RNR1	648	1601	12S ribosomal RNA
+MT-RNR2	1671	3229	16S ribosomal RNA
+MT-RNR3	3206	3229	5S-like sequence
+MT-TA	5587	5655	tRNA alanine
+MT-TAS	16157	16172	termination-associated sequence
+MT-TAS2	16081	16138	extended termination-associated sequence
+MT-TC	5761	5826	tRNA cysteine
+MT-TD	7518	7585	tRNA aspartic acid
+MT-TE	14674	14742	tRNA glutamic acid
+MT-TER	3229	3256	Transcription terminator
+MT-TF	577	647	tRNA phenylalanine
+MT-TFH	523	550	mtTF1 binding site
+MT-TFL	418	445	mtTF1 binding site
+MT-TFX	233	260	mtTF1 binding site
+MT-TFY	276	303	mtTF1 binding site
+MT-TG	9991	10058	tRNA glycine
+MT-TH	12138	12206	tRNA histidine
+MT-TI	4263	4331	tRNA isoleucine
+MT-TK	8295	8364	tRNA lysine
+MT-TL1	3230	3304	tRNA leucine 1
+MT-TL2	12266	12336	tRNA leucine2
+MT-TM	4402	4469	tRNA methionine
+MT-TN	5657	5729	tRNA asparagine
+MT-TP	15956	16023	tRNA proline
+MT-TQ	4329	4400	tRNA glutamine
+MT-TR	10405	10469	tRNA arginine
+MT-TS1	7446	7514	tRNA serine 1
+MT-TS2	12207	12265	tRNA serine2
+MT-TT	15888	15953	tRNA threonine
+MT-TV	1602	1670	tRNA valine
+MT-TW	5512	5579	tRNA tryptophan
+MT-TY	5826	5891	tRNA tyrosine
