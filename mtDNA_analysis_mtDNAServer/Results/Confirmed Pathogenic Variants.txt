@@ -1,0 +1,4 @@
+Example:
+Pos_ref_alt	SampleID	Variant-Level	Coverage-Total	Locus	Locus.1	Associated Diseases	aaΔ or RNA	Status ♣(Mitomap [ClinGen])	Last StatusUpdate
+1555:A:G	S000021_106	0.0211	237	MT-RNR1	MT-RNR1	DEAF; autism spectrum intellectual disability; possibly antiatherosclerotic	12S rRNA	Cfrm [P]	2022.12.15
+3243:A:G	S000021_128	1.0	99	MT-TL1	MT-TL1	MELAS / Leigh Syndrome / DMDF / MIDD / SNHL / CPEO / MM / FSGS / ASD / Cardiac+multi-organ dysfunction
