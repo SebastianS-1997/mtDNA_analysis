@@ -2,7 +2,7 @@
 
 This repository contains a Python script for analyzing mitochondrial DNA (mtDNA) variants using various databases. The script performs several steps including data merging, filtering, and mapping of variants to loci.
 
-## Overview
+# Overview
 
 The provided Python script is designed to perform the following tasks:
 
@@ -12,7 +12,7 @@ The provided Python script is designed to perform the following tasks:
 4. Compare variants with gnomAD database.
 5. Map variant positions to loci.
 
-## Installation
+# Installation
 
 1. Clone the repository to your local machine:
 
@@ -27,7 +27,7 @@ git clone https://github.com/YourUsername/mtDNA_analysis.git
 pip install pandas
 ```
 
-# Running with Docker (Linux or Windows)
+## Running with Docker (Linux or Windows)
 
 If you prefer to run the script using Docker on your system, follow these steps:
 
@@ -51,5 +51,5 @@ docker run -v "C:\mtDNA_analysis\Input:/Input" -v "C:\mtDNA_analysis\Results:/Re
 
 1. The script will run inside the Docker container, and the results will be generated in the Results directory.
 
-# Additional Steps
+## Additional Steps
 Ensure that all necessary input files are included in the Input directory, and databases are stored in the Database directory.
