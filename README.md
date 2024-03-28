@@ -13,14 +13,25 @@ The provided Python script is designed to perform the following tasks:
 6. Map variant positions to loci.
 
 ## Installation
+## Running with Docker Linux or Windows
 
+1. Install Docker Desktop for Windows from [here](https://www.docker.com/products/docker-desktop).
+
+2. Open PowerShell or Command Prompt.
+
+3. Pull the Docker image from Docker Hub:
+
+```bash
+docker pull tomlodz1/mtdnav1:latest
+
+docker run -v "C:\mtDNA_analysis\Input:/Input" -v "C:\mtDNA_analysis\Results:/Results" tomlodz1/mtdnav1:latest
+
+Or
 1. Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/YourUsername/mtDNA_analysis.git
 
-### Additional Steps
 
+### Additional Steps
 1. Ensure that all necessary input files are included in the `Input` directory, and databases are stored in the `Database` directory.
-2. If you have specific requirements or dependencies, make sure to include them in the installation instructions.
-4. Consider adding a license file (`LICENSE`) to specify how others can use, modify, and distribute your code.
