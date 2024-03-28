@@ -18,6 +18,7 @@ The provided Python script is designed to perform the following tasks:
 
 ```bash
 git clone https://github.com/YourUsername/mtDNA_analysis.git
+```
 
 1. Ensure you have Python installed. You can download it from here.
 2. Install the required Python libraries:
