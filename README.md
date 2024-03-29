@@ -41,19 +41,21 @@ If you prefer to run the script using Docker on your system, follow these steps:
 docker pull tomlodz1/mtdnav1:latest
 ```
 
-1. Navigate to the directory containing your input data and where you want to store the results. 
+3. Navigate to the directory containing your input data and where you want to store the results. 
 
-2. Run the Docker container, mounting the Input and Results directories:
+4. Run the Docker container, mounting the Input and Results directories:
    
 ```bash
 docker run -v "Path\Input:/Input" -v "Path\Results:/Results" tomlodz1/mtdnav1:latest
 ```
+
 or
+
 ```bash
 sudo docker run -v "${PWD}/path:"/Results" -v "${PWD}/path":"/Input" mtdnav1
 ```
 
-1. The script will run inside the Docker container and the results will be generated in the Results directory.
+The script will run inside the Docker container and the results will be generated in the Results directory.
 
 ## Additional step
 Ensure that any necessary input files are included in the Input directory, and that databases are stored in the Database directory.
