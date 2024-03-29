@@ -19,7 +19,7 @@ This Python script is designed to perform the following tasks:
 ```bash
 https://github.com/skoczylass/mtDNA_analysis.git
 ```
-1. Make sure you have Python 3.11 installed. You can download it here.
+1. Make sure you have Python 3.11 installed.
 
 2. Install the necessary Python libraries:
 
