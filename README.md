@@ -1,6 +1,6 @@
 # mtDNA Analysis Tool
 
-This repository contains a Python script for analyzing mitochondrial DNA (mtDNA) variants using various databases. The script performs several steps including data merging, filtering, and mapping of variants to loci.
+This repository contains a Python script for analysing mitochondrial DNA (mtDNA) variants according to: MITOMAP, HelixMTdb, gnomAD and MitImpact 3D. The script performs several steps including data merging, filtering and mapping of variants to loci. This script has been created to filter files from mtDNA-Server.
 
 # Overview
 
