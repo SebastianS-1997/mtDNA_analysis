@@ -4,13 +4,13 @@ This repository contains a Python script for analysing mitochondrial DNA (mtDNA)
 
 # Overview
 
-The provided Python script is designed to perform the following tasks:
+This Python script is designed to perform the following tasks:
 
-1. Identify confirmed pathogenic variants using MITOMAP database.
-2. Compare variants with zero frequency in HelixMTdb database.
-3. Match variants with predictions using MitImpact database.
-4. Compare variants with gnomAD database.
-5. Map variant positions to loci.
+1. Identify confirmed pathogenic variants using the MITOMAP database.
+2. Find zero frequency variants using the HelixMTdb database.
+3. Find zero frequency variants using the gnomAD database.
+4. Match zero frequency variants with predictions using the MitImpact database.
+5. Map variant positions to mtDNA loci.
 
 # Installation
 
@@ -19,9 +19,9 @@ The provided Python script is designed to perform the following tasks:
 ```bash
 https://github.com/skoczylass/mtDNA_analysis.git
 ```
-1. Ensure you have Python installed. You can download it from here.
+1. Make sure you have Python 3.11 installed. You can download it here.
 
-2. Install the required Python libraries:
+2. Install the necessary Python libraries:
 
 ```bash
 pip install pandas
@@ -33,7 +33,7 @@ If you prefer to run the script using Docker on your system, follow these steps:
 
 1. Install Docker Desktop for Windows from here if you haven't already.
 
-2. Open PowerShell or Command Prompt.
+2. Open PowerShell or Linux Terminal.
 
 3. Pull the Docker image from Docker Hub:
    
@@ -53,7 +53,7 @@ or
 sudo docker run -v "${PWD}/path:"/Results" -v "${PWD}/path":"/Input" mtdnav1
 ```
 
-1. The script will run inside the Docker container, and the results will be generated in the Results directory.
+1. The script will run inside the Docker container and the results will be generated in the Results directory.
 
-## Additional Steps
-Ensure that all necessary input files are included in the Input directory, and databases are stored in the Database directory.
+## Additional step
+Ensure that any necessary input files are included in the Input directory, and that databases are stored in the Database directory.
