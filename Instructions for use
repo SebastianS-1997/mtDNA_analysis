@@ -1,8 +1,7 @@
 # mtDNA Analysis Tool
 
-This repository contains a Python script for analysing mitochondrial DNA (mtDNA) variants according to: MITOMAP (https://www.mitomap.org/MITOMAP), HelixMTdb (https://www.helix.com/pages/mitochondrial-variant-database), gnomAD (https://gnomad.broadinstitute.org/) and MitImpact 3D (https://mitimpact.css-mendel.it/). The script performs several steps including data merging, filtering and mapping of variants to loci. This script has been created to filter files from mtDNA-Server.
+This repository contains a Python script for analysing mitochondrial DNA (mtDNA) variants according to: MITOMAP (https://www.mitomap.org/MITOMAP), HelixMTdb (https://www.helix.com/pages/mitochondrial-variant-database), gnomAD (https://gnomad.broadinstitute.org/) and MitImpact 3D (https://mitimpact.css-mendel.it/). This script has been created to filter files from mtDNA-Server.
 
 
-
-
-# Overview
+# Input files 
+Name of the input file: variants.txt 
